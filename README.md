@@ -110,12 +110,9 @@ An interactive dashboard was created to visualize customer behavior and business
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
-```
+![Dashboard Preview](Dashboard.png)
 
 ---
-
-## 📊 Key Insights
 
 ## 📊 Key Insights
 
